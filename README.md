@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitins715
 - 👀 Interested in coding , writing and sports and currently learning web dev and DSA.
 - 💞️ I’m looking to collaborate on various hackathons and projects specially social one.
-- 📫 You can mail me on my gmail id - nitins1020110@gmail.com regarding any query or work.
+- 📫 You can mail me on my gmail account - nitins1020110@gmail.com regarding any query or work.
 - ⚡ Fun fact: I hate k-pop and gossips.
