@@ -16,9 +16,9 @@ I love asking one simple question:
 
 > **"How does this actually work?"**
 
-That question has led me down the rabbit hole of Artificial Intelligence, Software Engineering, and building intelligent systems.
+That question is what drives the way I learn and build.
 
-Whether it's understanding how an LLM reasons, designing scalable APIs, or deploying production-ready applications, I enjoy exploring what happens beneath the surface.
+Whether it's understanding how an LLM reasons, understanding data and business, or deploying production-ready applications, I enjoy exploring what happens beneath the surface.
 
 For me, every project is more than another GitHub repository—it's an opportunity to experiment, learn, fail, improve, and build something better than before.
 
@@ -45,6 +45,7 @@ I enjoy turning ideas into systems people can actually use.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## 🤖 LLM Engineering
@@ -55,6 +56,7 @@ I enjoy turning ideas into systems people can actually use.
 ![MCP](https://img.shields.io/badge/MCP-2563EB?style=for-the-badge&logo=anthropic&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge&logo=crewai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 
 ## ⚙️ Backend Engineering
 
@@ -67,7 +69,6 @@ I enjoy turning ideas into systems people can actually use.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=minikube&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -76,7 +77,6 @@ I enjoy turning ideas into systems people can actually use.
 
 ![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=for-the-badge&logo=langchain&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![PromQL](https://img.shields.io/badge/PromQL-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 🗄️ Data & Storage
@@ -84,9 +84,8 @@ I enjoy turning ideas into systems people can actually use.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-059669?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Chroma DB](https://img.shields.io/badge/Chroma_DB-000000?style=for-the-badge&logo=chroma&logoColor=white)
 
 ## 🔧 Development Tools
 
@@ -110,10 +109,15 @@ I enjoy turning ideas into systems people can actually use.
 # 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/nitins715">LinkedIn</a> •
-<a href="https://leetcode.com/u/nitins1020110/">Leetcode</a> •
-<a href="nitins1020110@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/nitins715" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/nitins1020110/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:nitins1020110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </p>
 
